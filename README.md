@@ -18,3 +18,12 @@ A lightweight, single-file PowerShell/Batch utility designed to protect your pro
 1. Download `Guild2_Monitor.cmd` from this repository.
 2. Place it anywhere (or inside your game folder) and run it to launch the game and start monitoring automatically.
 3. *(Optional)* Open `Guild2_Monitor.cmd` in any text editor to customize thresholds, sound cues, or custom launcher paths in `Section 0`.
+
+## Feedback & Bug Reports
+This utility was created with the help of AI and thoroughly tested in long late-game multiplayer sessions (*Reforged*). 
+
+If you run into a bug, layout glitch, or compatibility issue on your setup, feel free to open an **Issue** on GitHub (or leave a comment on Steam). Please include:
+- Your game edition / mod (e.g., Steam, GOG, Reforged version)
+- A screenshot of the console window or the exact error message
+
+Fixes and updates are maintained on a best-effort basis whenever time permits—and since this is Public Domain (`The Unlicense`), anyone is also welcome to fork or tweak it freely!
