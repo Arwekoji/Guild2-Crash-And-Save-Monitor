@@ -17,7 +17,7 @@ A lightweight, single-file PowerShell/Batch utility designed to protect your pro
 
 
 ## Feedback & Bug Reports
-This utility was created with the help of AI and thoroughly tested in long late-game multiplayer sessions (*Reforged*). 
+This utility was created with the help of AI and thoroughly tested in long late-game multiplayer sessions (*Renaissance 4.76, Reforged 1.70*). 
 
 If you run into a bug, layout glitch, or compatibility issue on your setup, feel free to open an **Issue** on GitHub (or leave a comment on Steam). Please include:
 - Your game edition / mod (e.g., Steam, GOG, Reforged version)
