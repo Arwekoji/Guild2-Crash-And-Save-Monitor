@@ -26,7 +26,7 @@ If you run into a bug, layout glitch, or compatibility issue on your setup, feel
 Fixes and updates are maintained on a best-effort basis whenever time permits—and since this is Public Domain (`The Unlicense`), anyone is also welcome to fork or tweak it freely!
 
 
-## Download (1-Click)
+## Download
 👉 **[Click here to download the latest version of Guild2_Monitor](https://github.com/Arwekoji/Guild2-Crash-And-Save-Monitor/releases/tag/guild-2)**
 
 1. Open the link above and click **`Guild2_Monitor.cmd`** under **Assets** at the bottom of the page.
